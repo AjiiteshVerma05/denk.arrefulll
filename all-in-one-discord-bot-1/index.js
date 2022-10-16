@@ -128,24 +128,7 @@ client.on("message", async message =>{
     message.channel.send(`जय श्री राम 🕉️`)
   }
 });
-client.on("message", async message =>{
-  if (message.content.startsWith("arre do you know shib?"))
-  {
-    message.channel.send(`haa vahi jo raat me incogo par schumacher ki races dekhta hai.......?`)
-  }
-});
-client.on("message", async message =>{
-  if (message.content.startsWith("arre do you know shubh?"))
-  {
-    message.channel.send(`his name is bubh u mf`)
-  }
-});
-client.on("message", async message =>{
-  if (message.content.startsWith("arre do you know aryaman?"))
-  {
-    message.channel.send(`ha vahi na jo gaming channel bol kr f1 banata hai...`)
-  }
-});
+
 client.on("message", async message =>{
   if (message.content.startsWith("arre do you know arre?"))
   {
